@@ -10,9 +10,7 @@ VIT-AP University
 June, 2024  
 
 ---
-
-<img width="1440" alt="Screenshot 2024-07-05 at 1 04 22 PM" src="https://github.com/Sri-Hari-Priya-P/Heart-Attack-Prediction/assets/144220767/5cf180b5-b83a-459e-ba3e-7ebcdaf521b7">
-
+<img width="1440" height="900" alt="Screenshot 2025-07-31 at 9 16 25 AM" src="https://github.com/user-attachments/assets/fb4b5536-0cdd-48dd-b9c3-c7180c80e22a" />
 ---
 ## Chapter 1: Introduction
 
